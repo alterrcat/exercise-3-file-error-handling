@@ -1,3 +1,5 @@
+# Exercise 3 - File + Error Handling
+
 try:
     username = input("Enter username: ")
     if not username.strip():
